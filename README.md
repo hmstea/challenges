@@ -1,6 +1,12 @@
 # Getting Started with Create React App
 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### `npx create-react-app challenges --template typescript`
+### `npm install -D tailwindcss`
+### `npx tailwindcss init`
+
 
 ## Available Scripts
 
